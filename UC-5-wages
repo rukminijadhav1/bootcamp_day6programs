@@ -1,0 +1,10 @@
+#!/bin/bash -x
+
+isPartatime=1
+isFullTime=2
+empRatePerHr=20
+numOfWorkinhDays=20
+
+totalsalary=0
+
+for (( day=1; day<$numberOfWorkingDays; day++ c))
